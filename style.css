@@ -32,18 +32,21 @@ ol{
         gap: 30px;
         
     }
-    
-    /* Card one - Ігор Дем'яненко */
-    .Product{
-    width: 270px;
+    .our_team{
+        width: 270px;
     height: 368px;
     background: #FFFFFF;
-    /* material shadow v1 */
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
     }
-    .Product_Designer{
-        width: 129px;
+    
+    .foto{
+    width: 270px;
+    height: 260px;
+    border-radius: 0px;
+    
+    }
+    .team_member{
     height: 19px;
     font-family: 'Roboto';
     font-style: normal;
@@ -52,11 +55,12 @@ ol{
     line-height: 19px;
     text-align: center;
     letter-spacing: 0.03em;
-    margin: auto;
+    margin: 0 auto;
     color: #212121;
+    margin-top: 20px;
     }
-    .Designer_Igor{
-        width: 130px;
+    
+    .information{
     height: 19px;
     font-family: 'Roboto';
     font-style: normal;
@@ -65,112 +69,8 @@ ol{
     line-height: 19px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #757575;
     margin: 0 auto;
-    }
-
-/* Card two - Ольга Рєпіна */
-    .Frontend{
-        width: 270px;
-    height: 368px;
-    background: #FFFFFF;
-    /* material shadow v1 */
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-    border-radius: 0px 0px 4px 4px;
-    }
-
-    .Frontend_Developer{
-        width: 129px;
-        height: 19px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: center;
-        letter-spacing: 0.03em;
-        margin: auto;
-        color: #212121;
-    }
-    .Developer{
-        
-        width: 147px;
-        height: 19px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: center;
-        letter-spacing: 0.03em;
-        color: #757575;
-        margin: 0 auto;
-        }
-    /* Card three - Микола Тарасов */
-    .Marketing{
-        width: 270px;
-    height: 368px;
-    background: #FFFFFF;
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-    border-radius: 0px 0px 4px 4px;
-    }
-    .Marketin_Tarasov{
-        width: 129px;
-        height: 19px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: center;
-        letter-spacing: 0.03em;
-        margin: auto;
-        color: #212121;
-    }
-    .p{
-        width: 130px;
-    height: 19px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: #757575;
-    margin: 0 auto;
+    margin-top: 5px;
     }
-    /* Card four- Михайло Єрмако */
-    .UI_Designer{
-        width: 270px;
-    height: 368px;
-    background: #FFFFFF;
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-    border-radius: 0px 0px 4px 4px;
-    }
-    .UI{
-        width: 145px;
-        height: 19px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: center;
-        letter-spacing: 0.03em;
-        color: #212121;
-        margin: 0 auto;
-        }
-        .Designe_Ermakov{
-            width: 130px;
-    height: 19px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: #757575;
-    margin: 0 auto;
-        }
+    
