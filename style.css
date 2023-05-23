@@ -1,3 +1,7 @@
+a{
+    text-decoration: none;
+}
+
 ul,
 ol{
     list-style: none;
@@ -74,3 +78,64 @@ ol{
     margin-top: 5px;
     }
     
+    /* footer */
+
+    .footer1{
+        height: 252px;
+        background: #2F303A;
+        padding-top: 60px;
+        }
+        
+        .name_footer{
+        width: 145px;
+        height: 31px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: #2196F3;
+        padding-left: 215px;
+        }
+        
+        .logo_footer{
+            width: 145px;
+        height: 31px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+        }
+        
+        
+        address>p{
+        width: 231px;
+        height: 21px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+        padding-left: 215px;
+        padding-top: 5px;
+        
+        }
+        
+        .dictates{
+        height: 21px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        padding-left: 175px;
+        color: rgba(255, 255, 255, 0.6);
+        
+        }
